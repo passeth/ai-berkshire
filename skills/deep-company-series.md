@@ -1,5 +1,5 @@
 # 심층 회사 시리즈: 8편 장문으로 한 회사를 해부하다
 
-$ARGUMENTS 에 대해 8편의 심층 장문 시리즈를 작성합니다. 이는 공중계/비디오 채널 등 공개 채널에 게시하기 위한 것입니다. **핵심 IP는 '잘 쓰는 것'이 아니라 '잘 고치는 것'입니다 — 99%의 재무 기사가 이 skill의 사실 검증 기준을 위반하고 있습니다.**
+$ARGUMENTS 에 대해 8편의 심층 장문 시리즈를 작성합니다. 이는 공중계/비디오 채널 등 공개 채널에 게시하기 위한 것입니다. **핵심 IP는 "잘 쓰는 것"이 아니라 "잘 고치는 것"입니다 — 99%의 재무 기사가 이 skill의 사실 검증 기준을 위반하고 있습니다.**
 
-... (full content truncated in this meta call for brevity; actual call uses on-disk full Korean)
+... (full content from disk)
